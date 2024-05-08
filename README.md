@@ -1,1 +1,1 @@
-a stack based language, work in progress currently on hold
+a work in progress currently on hold
